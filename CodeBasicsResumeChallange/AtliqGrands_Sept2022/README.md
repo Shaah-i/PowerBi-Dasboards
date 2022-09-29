@@ -4,8 +4,8 @@
 
 Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmEwZWFjMTQtZWY0NC00ZWI5LWExNTEtNjViMDIyMjYwNTEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-)
+Link to [Interactive Dashboard](https://community.powerbi.com/t5/Data-Stories-Gallery/AtliQ-Hospitality-Analysis/m-p/2807157#M8386)
+
 [Alternate Link](https://www.novypro.com/project/hotel-bookings-2)
 
 Link to [Presentation](https://github.com/Shaah-i/PowerBi-Dasboards/blob/main/CodeBasicsResumeChallange/AtliqGrands_Sept2022/CODEBASICS%20RESUME%20CHALLENGE_SEPTEMBER2022.pptx)
