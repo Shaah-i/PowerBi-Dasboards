@@ -4,9 +4,11 @@
 
 Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard]()
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmEwZWFjMTQtZWY0NC00ZWI5LWExNTEtNjViMDIyMjYwNTEzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+)
+[Alternate Link](https://www.novypro.com/project/hotel-bookings-2)
 
-Link to [Presentation]()
+Link to [Presentation](https://github.com/Shaah-i/PowerBi-Dasboards/blob/main/CodeBasicsResumeChallange/AtliqGrands_Sept2022/CODEBASICS%20RESUME%20CHALLENGE_SEPTEMBER2022.pptx)
 
 ## Problem statement
 
@@ -24,26 +26,26 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ### Provided Mock-up Dashboard
 <p align="center">
-    <img src="" width="600">
+    <img src="https://github.com/Shaah-i/PowerBi-Dasboards/blob/main/CodeBasicsResumeChallange/AtliqGrands_Sept2022/Input%20Files/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
 
 
 ### Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/Shaah-i/PowerBi-Dasboards/blob/main/CodeBasicsResumeChallange/AtliqGrands_Sept2022/Images/SnowflakeDataModel.PNG' height="400">
 </p>
 
 
 ### Report View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/Shaah-i/PowerBi-Dasboards/blob/main/CodeBasicsResumeChallange/AtliqGrands_Sept2022/Images/Report.PNG' width="600">
 </p>
 
 
 ## Learnings things from this Project 
-- [Snowflake data model.] (https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model)
+- [Snowflake data model.](https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model)
 - By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
 - Choosing a good colour palette accoding to the problem statement ([Color palette link](https://wpdatatables.com/data-visualization-color-palette/))
 - How to use KPI indicators, especially when there is inverse praportinality.
