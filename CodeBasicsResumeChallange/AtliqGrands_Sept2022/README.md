@@ -46,16 +46,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Learnings things from this Project 
 - [Snowflake data model.](https://www.geeksforgeeks.org/snowflake-schema-in-data-warehouse-model)
-- By referring different cancellation polices followed by different hotels, understood that most of the hotels charge zero fee, only if the booking is cancelled before three months of booking date. If the booking is cancelled after that, the charge range from 60 to 90% of the booking cost.
-- Choosing a good colour palette accoding to the problem statement ([Color palette link](https://wpdatatables.com/data-visualization-color-palette/))
-- How to use KPI indicators, especially when there is inverse praportinality.
+- Choosing a good colour palette according to the problem statement ([Colour palette link](https://wpdatatables.com/data-visualization-color-palette/))
+- How to use KPI indicators, especially when there is inverse proportionality.
+- I contacted few of my friends working in hospitality domain where I got to know that people tend to cancel the bookings if they have booked it more than 1 week prior. This can also be seen through the data we have.
+
 
 ## Some Important insights from the Dashboard
 
 - Most occupied hotel is Atliq Blu having average occupancy of 62.02%.
 - Hotels in Delhi are most occupied with an average of 60.55%.
 - Total Revenue in 3 months from all hotels is ₹1.71 billion.
-- There are a total of 232576 rooms of which only 57.87% are occupied, which means 97985 rooms remain vaccant.
+- There are 232576 rooms of which only 57.87% are occupied, which means 97985 rooms remain vacant.
 - Week 24 recorded the highest revenue among all, which is 139.6 Million.
 - AtliQ Exotica performs better compared to all 7 type of properties with 320 million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
 - Delhi generates the lowest revenue.
