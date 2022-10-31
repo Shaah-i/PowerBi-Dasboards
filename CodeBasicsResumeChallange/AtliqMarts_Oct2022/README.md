@@ -8,7 +8,6 @@ Link to [Interactive Dashboard](https://community.powerbi.com/t5/Data-Stories-Ga
 
 [Alternate Link](https://www.novypro.com/project/atliq-mart-challange-shaahi)
 
-Link to [Presentation]()
 
 ## Problem statement
 
@@ -28,9 +27,8 @@ Create a dashboard according to the requirements provided by stakeholders in the
 Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
 ### Provided Resources
-<p align="center">
-    <img src="https://github.com/Shaah-i/PowerBi-Dasboards/tree/main/CodeBasicsResumeChallange/AtliqMarts_Oct2022/Input%20Files%20C2" width="600">
-</p>
+
+[Resources](https://github.com/Shaah-i/PowerBi-Dasboards/tree/main/CodeBasicsResumeChallange/AtliqMarts_Oct2022/Input%20Files%20C2)
 
 
 ### Data Model
