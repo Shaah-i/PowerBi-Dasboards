@@ -1,0 +1,35 @@
+You may have seen that Genco is now part of GCAC at Genset and we have Asia-Pacific in our region now.
+
+To start with, we will be reviewing the Philippines market to do a deep dive and need your help with below.
+
+Analyse the customer base in Philippines (1st attachment)
+* Number of customers by status (active, prospect, lapsed, inactive)
+* Customer by sector
+* List of customers that hired in 2022
+* List of customers that hired in 2021
+* List of customers that hired in 2020
+
+Analyse orders(2nd attachment)
+* Top 20 customers by total order $ in 2022
+* Top 20 customers by total order $ in 2021
+* Top 20 customers by total order $ in 2020
+* Total order $ by sectors in 2022
+* Total order $ by sectors in 2021
+* Total order $ by sectors in 2020
+*Total order $ by Owner: Full Name 2022
+*Total order $ by Owner: Full Name 2021
+*Total order $ by Owner: Full Name 2022
+
+Analyse quotes(3nd attachment)
+* Top 20 customers by total quote $ in 2022
+* Top 20 customers by total quote $ in 2021
+* Top 20 customers by total quote $ in 2020
+* Total quote $ by sectors in 2022
+* Total quote $ by sectors in 2021
+* Total quote $ by sectors in 2020
+*Total quote $ by Owner: Full Name 2022
+*Total quote $ by Owner: Full Name 2021
+*Total quote $ by Owner: Full Name 2022
+* Price band quotes in 2022
+* Status of quotes in 2022
+* Rent duration of quotes in 2022
