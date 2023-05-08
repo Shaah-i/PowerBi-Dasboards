@@ -4,9 +4,9 @@
 
 Link to the [Challenge](https://www.mavenanalytics.io/data-playground)
 
-Link to [Interactive Dashboard](https://community.powerbi.com/)
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDA4OWYzZmYtOTE0NC00MTE0LWI4OTUtZTM0NzA1MTQ2MTAwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-[Alternate Link](https://www.novypro.com/project/)
+[Alternate Link](https://www.novypro.com/project/maven-pizza-challenge-shaahi)
 
 
 ## Problem statement
